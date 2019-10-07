@@ -1,3 +1,6 @@
+@-ms-viewport {
+  width: device-width;
+  height: device-height; }
 a:link {
   color: #cf6a4c; }
 
@@ -100,43 +103,51 @@ body {
       width: 110%; }
 
 .rotater:nth-child(1) {
-  transform: rotate(-25.7142857143deg); }
+  transform: rotate(-22.5deg); }
 
 .menu.active .rotater:nth-child(1) .btn-icon {
-  transform: translateY(-10em) rotate(25.7142857143deg); }
+  transform: translateY(-10em) rotate(22.5deg); }
 
 .rotater:nth-child(2) {
-  transform: rotate(25.7142857143deg); }
+  transform: rotate(22.5deg); }
 
 .menu.active .rotater:nth-child(2) .btn-icon {
-  transform: translateY(-10em) rotate(-25.7142857143deg); }
+  transform: translateY(-10em) rotate(-22.5deg); }
 
 .rotater:nth-child(3) {
-  transform: rotate(77.1428571429deg); }
+  transform: rotate(67.5deg); }
 
 .menu.active .rotater:nth-child(3) .btn-icon {
-  transform: translateY(-10em) rotate(-77.1428571429deg); }
+  transform: translateY(-10em) rotate(-67.5deg); }
 
 .rotater:nth-child(4) {
-  transform: rotate(128.571428571deg); }
+  transform: rotate(112.5deg); }
 
 .menu.active .rotater:nth-child(4) .btn-icon {
-  transform: translateY(-10em) rotate(-128.571428571deg); }
+  transform: translateY(-10em) rotate(-112.5deg); }
 
 .rotater:nth-child(5) {
-  transform: rotate(180deg); }
+  transform: rotate(157.5deg); }
 
 .menu.active .rotater:nth-child(5) .btn-icon {
-  transform: translateY(-10em) rotate(-180deg); }
+  transform: translateY(-10em) rotate(-157.5deg); }
 
 .rotater:nth-child(6) {
-  transform: rotate(231.428571429deg); }
+  transform: rotate(202.5deg); }
 
 .menu.active .rotater:nth-child(6) .btn-icon {
-  transform: translateY(-10em) rotate(-231.428571429deg); }
+  transform: translateY(-10em) rotate(-202.5deg); }
 
 .rotater:nth-child(7) {
-  transform: rotate(282.857142857deg); }
+  transform: rotate(247.5deg); }
 
 .menu.active .rotater:nth-child(7) .btn-icon {
-  transform: translateY(-10em) rotate(-282.857142857deg); }
+  transform: translateY(-10em) rotate(-247.5deg); }
+
+.rotater:nth-child(8) {
+  transform: rotate(292.5deg); }
+
+.menu.active .rotater:nth-child(8) .btn-icon {
+  transform: translateY(-10em) rotate(-292.5deg); }
+
+/*# sourceMappingURL=style.css.map */

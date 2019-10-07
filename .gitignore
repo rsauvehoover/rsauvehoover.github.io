@@ -1,2 +1,6 @@
 *.codekit3
 .DS_Store
+node_modules/
+*.map
+*.log
+.sass-cache/
